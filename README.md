@@ -1,4 +1,4 @@
-# Responsive Stopwatch
+# Stopwatch App (HTML CSS JS)
 
 A responsive and user-friendly stopwatch that allows you to accurately track time intervals. This stopwatch provides start, stop, and reset functionality, and its clean design ensures a seamless experience on various devices.
 
